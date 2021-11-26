@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ra_10_editing-and-filtering/static/css/main.a00e89c9.chunk.css",
+    "main.js": "/ra_10_editing-and-filtering/static/js/main.e0c3feb9.chunk.js",
+    "main.js.map": "/ra_10_editing-and-filtering/static/js/main.e0c3feb9.chunk.js.map",
+    "runtime-main.js": "/ra_10_editing-and-filtering/static/js/runtime-main.2157b321.js",
+    "runtime-main.js.map": "/ra_10_editing-and-filtering/static/js/runtime-main.2157b321.js.map",
+    "static/js/2.587e3875.chunk.js": "/ra_10_editing-and-filtering/static/js/2.587e3875.chunk.js",
+    "static/js/2.587e3875.chunk.js.map": "/ra_10_editing-and-filtering/static/js/2.587e3875.chunk.js.map",
+    "static/js/3.025dab7b.chunk.js": "/ra_10_editing-and-filtering/static/js/3.025dab7b.chunk.js",
+    "static/js/3.025dab7b.chunk.js.map": "/ra_10_editing-and-filtering/static/js/3.025dab7b.chunk.js.map",
+    "index.html": "/ra_10_editing-and-filtering/index.html",
+    "static/css/main.a00e89c9.chunk.css.map": "/ra_10_editing-and-filtering/static/css/main.a00e89c9.chunk.css.map",
+    "static/js/2.587e3875.chunk.js.LICENSE.txt": "/ra_10_editing-and-filtering/static/js/2.587e3875.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2157b321.js",
+    "static/js/2.587e3875.chunk.js",
+    "static/css/main.a00e89c9.chunk.css",
+    "static/js/main.e0c3feb9.chunk.js"
+  ]
+}
